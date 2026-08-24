@@ -1,3 +1,5 @@
 # design-
 braj nidhi react website design 
-ddeveloped by kalyan 
+developed by kalyan 
+framework is react 
+next js 
